@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\cpp\login reg system\login reg system\main.cpp(89): warning C4715: 'checkLogin': not all control paths return a value
+  login reg system.vcxproj -> D:\cpp\login reg system\x64\Debug\login reg system.exe
